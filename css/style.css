@@ -31,7 +31,7 @@ h1,h2,h3,h4,h5,h6{
 }
 /* .section1::after{
   content:"";
-  background:repeating-linear-gradient(to right, hsla(0,50%,50%,.5), hsla(0,50%,50%,.5), transparent 65px, transparent 85px);
+  background:repeating-linear-gradient(to right, hsla(0,50%,50%,.5), hsla(0,50%,50%,.5) 65px, transparent 65px, transparent 85px);
   position: absolute;
   top: 0;
   left: 0;
